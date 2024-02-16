@@ -1,0 +1,24 @@
+<div class="title_card">
+  <img src="/img/gallery/card.png" style="width:100%; height:100%; object-fit:cover;">
+  <div class="title_card_text">
+    <p style="font-size: 4.5em;">HOME</p>
+  </div>
+</div>
+
+<h1><strong><font color = "#426cc2">🔭About Me</font></strong></h1>
+
+```json
+{
+  "Age": 19,
+  "Gender": "Male",
+  "School": "UESTC",
+  "Major": "Software Engineering",
+  "Occupation": "Undergraduate",
+  "Home": "TsingTao, Shandong, CN",
+  "Author.achievements": [
+    "2006年《时代周刊》年度风云人物",
+    "2008年《感动中国》年度人物",
+    "联合国2019年度地球卫士奖联合获奖人"
+  ]
+}
+```
