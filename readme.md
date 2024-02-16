@@ -1,6 +1,5 @@
 <img src="card.png" style="width:100%; height:100%; object-fit:cover;">
 
-<h1><strong><font color = "#426cc2">🔭About Me</font></strong></h1>
 
 ```json
 {
