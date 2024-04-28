@@ -14,6 +14,6 @@
 
 
 | [
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efterklang&layout=donut&theme=tokyonight&exclude_repo=Efterklang.github.io)] | ![Efterklang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Efterklang&show_icons=true&theme=tokyonight) |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efterklang&layout=donut&theme=tokyonight&exclude_repo=Efterklang.github.io) | ![Efterklang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Efterklang&show_icons=true&theme=tokyonight) |
 | --- | --- |
 
