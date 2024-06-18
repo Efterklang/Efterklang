@@ -15,8 +15,8 @@
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efterklang&layout=donut&theme=tokyonight&exclude_repo=Efterklang.github.io&show_icons=true&hide_border=true&count_private=true" height="250">
-    <img src="https://github-readme-stats.vercel.app/api?username=Efterklang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="250">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efterklang&layout=donut&theme=tokyonight&exclude_repo=Efterklang.github.io&show_icons=true&hide_border=true&count_private=true" height="230">
+    <img src="https://github-readme-stats.vercel.app/api?username=Efterklang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="230">
   </p>
 </div>
 
