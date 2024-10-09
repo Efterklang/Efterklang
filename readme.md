@@ -6,7 +6,6 @@
   "School": "UESTC",
   "Major": "Software Engineering",
   "Home": "TsingTao, Shandong, CN",
-  "Author.achievements": ["NULL"]
 }
 ```
 
