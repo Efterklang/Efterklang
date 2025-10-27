@@ -1,14 +1,16 @@
-```json
-{
-  "Name": "GnixAij",
-  "School": "UESTC",
-  "Site": "vluv.space"
-  "Home": "TsingTao, Shandong, CN",
-}
-```
+<p align="left"><strong><samp>「</samp></strong></p>
 
+<p align="center">
+  <strong>GnixAij</strong><br>
+  <samp>
+    <a href="https://vluv.space">blog</a> .
+    <a href="https://vluv.space/about">about</a> .
+    <a href="https://wiki.vluv.space">wikipedia</a> .
+    <a href="https://gallery.vluv.space">photos</a>
+  </samp>
+</p>
 
-![Efterklang's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Efterklang&theme=tokyo-night&hide_border=true&bg_color=585eaa0f)
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <div class="badges-githubstats">
   <p align="center">
